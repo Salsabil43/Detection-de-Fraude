@@ -64,13 +64,13 @@ python split_data.py
 
 Les fichiers suivants seront générés :
 
-X_train.csv
+- X_train.csv
 
-X_test.csv
+- X_test.csv
 
-y_train.csv
+- y_train.csv
 
-y_test.csv
+- y_test.csv
 
 La séparation est réalisée avant le preprocessing afin d’éviter toute fuite de données (data leakage).
 
@@ -102,26 +102,25 @@ Endpoints disponibles :
 
 #### Technologies utilisées
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-Scikit-learn
+- Scikit-learn
 
-FastAPI
+- FastAPI
 
-Joblib
+- Joblib
 
-Requests
 
 ### Améliorations possibles
 
-Optimisation avancée des hyperparamètres
+- Optimisation avancée des hyperparamètres
 
-Seuil de décision dynamique
+- Seuil de décision dynamique
 
-Ajout de tests unitaires
+- Ajout de tests unitaires
 
-Déploiement avec Docker
+- Déploiement avec Docker
 
-Monitoring en production
+- Monitoring en production
