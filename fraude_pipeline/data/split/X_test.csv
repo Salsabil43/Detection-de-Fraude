@@ -1,0 +1,201 @@
+transaction_id,client_id,date,heure,montant,devise,type_transaction,lieu,canal,moyen_paiement,categorie_commerce,device_utilise,score_risque_client
+T000536,C4072,19/08/2025,20:39:57,2639.35,USD,retrait,Fès,application mobile,MasterCard,mode,iOS,1
+T000332,C5146,31/07/2025,10:09:29,5642.62,MAD,retrait,Casablanca,carte,MasterCard,santé,Android,2
+T000102,C9110,10/07/2025,21:24:12,5467.6,EUR,paiement en ligne,Rabat,en ligne,,électronique,ATM,9
+T000812,C1009,13/09/2025,16:45:48,7165.25,EUR,retrait,Fès,application mobile,Amex,alimentaire,ATM,2
+T000313,C6801,29/07/2025,00:54:34,3724.34,MAD,virement,Marrakech,guichet,Visa,santé,Android,7
+T000857,C5670,17/09/2025,21:42:17,8815.68,MAD,retrait,Rabat,carte,Amex,mode,Web,5
+T000485,C2167,14/08/2025,18:30:50,2744.52,MAD,paiement en ligne,Casablanca,carte,Amex,voyage,ATM,5
+T000227,C5499,21/07/2025,16:07:20,9507.07,MAD,paiement en ligne,Casablanca,guichet,Cash,alimentaire,Web,3
+T000715,C6240,04/09/2025,22:15:00,2188.38,EUR,retrait,Casablanca,en ligne,MasterCard,alimentaire,ATM,5
+T000140,C2306,13/07/2025,16:23:02,4356.52,,virement,Rabat,guichet,Visa,voyage,Web,6
+T000229,C7197,21/07/2025,13:46:30,4394.31,MAD,paiement en ligne,Marrakech,guichet,Visa,voyage,iOS,10
+T000739,C2531,06/09/2025,00:19:15,8158.65,,paiement en ligne,Casablanca,guichet,MasterCard,mode,Web,5
+T000117,C1863,11/07/2025,02:44:13,2636.05,MAD,retrait,Casablanca,carte,,santé,iOS,1
+T000348,C5869,01/08/2025,05:33:17,8180.43,MAD,virement,Casablanca,en ligne,Visa,alimentaire,Web,3
+T000727,C9150,05/09/2025,01:46:43,6938.97,EUR,retrait,Casablanca,application mobile,Cash,électronique,iOS,2
+T000098,C9996,09/07/2025,10:39:25,9580.01,MAD,virement,Fès,guichet,Visa,mode,iOS,2
+T000628,C3048,27/08/2025,04:56:51,230.33,MAD,paiement en ligne,,carte,Amex,santé,Web,2
+T000430,C9306,09/08/2025,01:22:43,2710.65,MAD,paiement en ligne,Marrakech,application mobile,MasterCard,santé,ATM,8
+T000049,C4152,05/07/2025,20:06:09,3406.59,EUR,retrait,Casablanca,en ligne,MasterCard,électronique,Android,10
+T000200,C2734,19/07/2025,10:51:31,9199.33,,paiement en ligne,Fès,guichet,Visa,santé,ATM,2
+T000842,C7941,16/09/2025,08:09:01,5382.55,MAD,retrait,Casablanca,en ligne,Amex,voyage,ATM,2
+T000884,C3243,20/09/2025,05:58:14,,MAD,retrait,Casablanca,guichet,Amex,voyage,Android,10
+T000878,C1419,19/09/2025,03:48:44,8178.89,EUR,retrait,Marrakech,guichet,Cash,mode,Android,7
+T000520,C4141,17/08/2025,16:55:08,6510.76,MAD,paiement en ligne,Casablanca,application mobile,Cash,santé,Web,1
+T000487,C3156,14/08/2025,09:24:01,672.14,EUR,paiement en ligne,Casablanca,carte,Visa,mode,ATM,1
+T000700,C8570,03/09/2025,20:07:54,7512.28,MAD,virement,Marrakech,guichet,MasterCard,électronique,iOS,8
+T000991,C3065,30/09/2025,01:43:03,56.5,MAD,paiement en ligne,Tanger,en ligne,Visa,santé,Web,6
+T000972,C4432,28/09/2025,09:09:35,2892.79,MAD,virement,Fès,carte,Cash,voyage,Web,1
+T000532,C5849,18/08/2025,07:56:22,1098.66,MAD,paiement en ligne,,carte,Cash,alimentaire,Android,9
+T000693,C9472,02/09/2025,00:41:51,,MAD,paiement en ligne,Fès,carte,Cash,voyage,Web,3
+T000421,C5380,08/08/2025,00:35:02,6056.19,EUR,paiement en ligne,Fès,en ligne,Visa,alimentaire,Android,10
+T000484,C4636,14/08/2025,10:01:22,2183.34,EUR,paiement en ligne,Marrakech,en ligne,Visa,électronique,Web,8
+T000685,C7254,01/09/2025,03:45:51,5506.77,MAD,paiement en ligne,Fès,en ligne,Amex,électronique,Web,1
+T000036,C4890,04/07/2025,06:08:53,3981.55,MAD,virement,Rabat,en ligne,MasterCard,alimentaire,ATM,1
+T000768,C3472,09/09/2025,14:51:13,3300.06,MAD,paiement en ligne,Tanger,guichet,Cash,mode,ATM,3
+T000743,C7949,07/09/2025,08:19:00,,MAD,virement,,guichet,MasterCard,mode,Android,9
+T000702,C6124,03/09/2025,15:45:39,7599.22,USD,retrait,Casablanca,guichet,Cash,alimentaire,iOS,4
+T000021,C7396,02/07/2025,03:28:17,8230.69,MAD,virement,Marrakech,carte,Cash,santé,iOS,8
+T000005,C6734,01/07/2025,17:06:28,3015.62,MAD,virement,Fès,guichet,Amex,électronique,iOS,1
+T000592,C1255,24/08/2025,13:13:56,3575.0,EUR,virement,,application mobile,Cash,santé,ATM,3
+T000104,C2028,10/07/2025,12:41:43,802.27,MAD,retrait,Fès,guichet,,voyage,ATM,9
+T000365,C6949,03/08/2025,11:04:33,6743.39,MAD,paiement en ligne,Fès,guichet,,électronique,Android,9
+T000022,C9666,02/07/2025,01:00:46,8510.96,MAD,retrait,Tanger,carte,Cash,voyage,Web,1
+T000054,C2021,05/07/2025,20:35:50,4072.68,,virement,Fès,guichet,Visa,voyage,ATM,5
+T000230,C2648,22/07/2025,05:31:10,5821.88,MAD,retrait,Rabat,en ligne,Visa,santé,ATM,7
+T000257,C7893,24/07/2025,10:17:53,7722.67,EUR,retrait,Fès,guichet,Cash,voyage,ATM,4
+T000880,C2120,19/09/2025,02:10:44,9382.75,MAD,retrait,Casablanca,carte,Cash,alimentaire,iOS,3
+T000218,C3049,20/07/2025,11:52:23,9186.48,USD,paiement en ligne,Tanger,en ligne,Visa,mode,Web,9
+T000288,C2184,27/07/2025,05:44:40,1857.06,MAD,virement,Fès,application mobile,Visa,alimentaire,iOS,10
+T000164,C1698,16/07/2025,10:44:24,1941.57,,retrait,Casablanca,application mobile,Visa,alimentaire,ATM,8
+T000416,C9002,08/08/2025,06:23:45,4856.24,EUR,virement,,en ligne,Visa,santé,ATM,8
+T000411,C5000,07/08/2025,12:56:24,,MAD,paiement en ligne,Casablanca,guichet,Cash,électronique,Web,10
+T000501,C8241,16/08/2025,04:21:04,7441.67,EUR,retrait,Rabat,en ligne,Visa,alimentaire,Android,2
+T000594,C2838,24/08/2025,19:10:15,,MAD,retrait,Rabat,en ligne,MasterCard,mode,ATM,10
+T000553,C7190,20/08/2025,12:52:31,8294.13,EUR,virement,Casablanca,application mobile,Cash,voyage,ATM,8
+T000459,C5968,12/08/2025,10:14:21,1925.98,MAD,paiement en ligne,Casablanca,application mobile,MasterCard,voyage,iOS,9
+T000790,C9195,11/09/2025,11:53:11,6214.29,MAD,retrait,Casablanca,guichet,,mode,ATM,10
+T000327,C5495,31/07/2025,17:20:00,3389.32,MAD,paiement en ligne,Rabat,guichet,MasterCard,voyage,Web,9
+T000094,C9392,09/07/2025,17:58:41,4866.57,,paiement en ligne,Tanger,application mobile,Amex,santé,iOS,5
+T000409,C7833,07/08/2025,06:31:10,7391.96,MAD,retrait,Marrakech,guichet,Cash,électronique,Android,7
+T000761,C9258,08/09/2025,05:22:21,8262.89,MAD,paiement en ligne,Fès,guichet,Cash,voyage,ATM,5
+T000876,C9669,19/09/2025,01:47:51,716.81,MAD,virement,Marrakech,guichet,Cash,mode,Android,2
+T000859,C3712,18/09/2025,22:08:52,6607.5,EUR,paiement en ligne,,application mobile,Cash,santé,Web,10
+T000866,C2970,18/09/2025,21:35:32,8036.27,MAD,paiement en ligne,Casablanca,en ligne,Cash,voyage,ATM,5
+T000066,C8892,06/07/2025,01:52:08,9761.34,EUR,paiement en ligne,Rabat,guichet,MasterCard,mode,Web,1
+T000090,C4561,09/07/2025,06:08:50,3064.01,USD,paiement en ligne,Fès,guichet,Cash,mode,Web,1
+T000127,C2678,12/07/2025,12:33:24,6327.67,MAD,retrait,Tanger,en ligne,MasterCard,santé,Web,3
+T000789,C9659,11/09/2025,22:46:39,8379.34,MAD,paiement en ligne,Rabat,carte,Amex,mode,ATM,10
+T000549,C2852,20/08/2025,08:40:24,5174.31,MAD,retrait,Casablanca,guichet,MasterCard,électronique,Web,10
+T000266,C6600,25/07/2025,21:36:31,7667.19,MAD,paiement en ligne,Fès,carte,Cash,voyage,iOS,10
+T000479,C8266,14/08/2025,03:24:14,2032.74,EUR,paiement en ligne,Rabat,guichet,Amex,voyage,iOS,6
+T000425,C9945,09/08/2025,01:04:43,3008.04,MAD,virement,Rabat,guichet,Amex,alimentaire,ATM,5
+T000526,C6301,18/08/2025,07:58:21,268.04,MAD,paiement en ligne,Rabat,en ligne,Amex,voyage,Web,8
+T000816,C8041,14/09/2025,09:42:53,6764.12,MAD,paiement en ligne,,en ligne,Visa,alimentaire,ATM,6
+T000597,C9989,24/08/2025,04:57:03,2491.26,,retrait,Fès,application mobile,Cash,alimentaire,Web,1
+T000103,C4840,10/07/2025,17:32:15,9629.55,EUR,paiement en ligne,Casablanca,carte,,électronique,ATM,4
+T000636,C8239,28/08/2025,04:19:48,149.29,USD,paiement en ligne,Tanger,guichet,Amex,voyage,Web,4
+T000493,C8330,15/08/2025,15:15:32,9517.33,MAD,paiement en ligne,Casablanca,application mobile,MasterCard,voyage,iOS,5
+T000921,C9795,23/09/2025,22:57:35,2772.72,EUR,paiement en ligne,Rabat,en ligne,Visa,voyage,Android,9
+T000849,C1600,17/09/2025,05:02:15,5852.75,MAD,retrait,Casablanca,carte,,électronique,Android,8
+T000860,C3192,18/09/2025,05:57:29,2151.76,EUR,paiement en ligne,Casablanca,application mobile,Amex,santé,Web,9
+T000820,C9512,14/09/2025,18:58:38,1715.2,MAD,paiement en ligne,Casablanca,application mobile,Visa,électronique,iOS,8
+T000015,C6311,02/07/2025,03:51:36,2128.38,EUR,paiement en ligne,Marrakech,application mobile,Cash,alimentaire,ATM,6
+T000806,C2828,13/09/2025,07:18:41,5300.39,EUR,paiement en ligne,Casablanca,application mobile,Visa,mode,iOS,10
+T000935,C4072,25/09/2025,12:46:45,3173.06,MAD,virement,Fès,en ligne,,alimentaire,iOS,3
+T000498,C7801,15/08/2025,06:49:36,5465.33,EUR,paiement en ligne,Casablanca,application mobile,MasterCard,électronique,iOS,6
+T000037,C9838,04/07/2025,21:42:45,7146.41,EUR,retrait,Fès,carte,Cash,alimentaire,iOS,7
+T000572,C4719,22/08/2025,20:14:51,7496.14,MAD,paiement en ligne,Rabat,application mobile,Cash,électronique,ATM,10
+T000809,C7988,13/09/2025,07:13:34,9812.12,MAD,paiement en ligne,Fès,carte,Visa,voyage,Android,3
+T000530,C5268,18/08/2025,11:00:22,4936.4,MAD,virement,Fès,guichet,Visa,mode,iOS,5
+T000607,C7970,25/08/2025,13:02:23,5432.0,EUR,retrait,Fès,en ligne,Visa,alimentaire,ATM,1
+T000651,C7996,29/08/2025,05:43:08,3908.87,EUR,virement,Tanger,guichet,MasterCard,voyage,ATM,8
+T000680,C6569,01/09/2025,06:21:11,6633.76,MAD,paiement en ligne,Tanger,guichet,Cash,santé,Android,7
+T000437,C1412,10/08/2025,15:41:29,3163.43,MAD,paiement en ligne,Casablanca,guichet,MasterCard,santé,iOS,4
+T000291,C9319,27/07/2025,01:38:05,8076.6,EUR,paiement en ligne,Marrakech,application mobile,MasterCard,électronique,Android,4
+T000492,C5729,15/08/2025,13:50:06,,USD,paiement en ligne,Rabat,en ligne,MasterCard,voyage,Web,2
+T000145,C6575,14/07/2025,02:58:27,547.29,MAD,paiement en ligne,Marrakech,carte,Amex,alimentaire,Web,2
+T000088,C1391,09/07/2025,21:57:06,,MAD,paiement en ligne,Casablanca,en ligne,Visa,voyage,Web,5
+T000168,C6855,16/07/2025,18:30:22,9603.35,USD,paiement en ligne,Tanger,carte,Amex,voyage,iOS,6
+T000741,C4345,07/09/2025,07:55:27,7620.47,MAD,retrait,Marrakech,application mobile,,santé,Web,2
+T000219,C6423,21/07/2025,02:19:45,1062.95,EUR,retrait,Rabat,guichet,MasterCard,santé,iOS,4
+T000722,C6811,05/09/2025,19:33:25,3858.85,EUR,virement,Fès,en ligne,Visa,électronique,ATM,2
+T000942,C8112,25/09/2025,14:34:18,4919.46,MAD,virement,Rabat,guichet,Amex,santé,iOS,7
+T000975,C4701,28/09/2025,13:49:27,5734.04,MAD,paiement en ligne,Tanger,carte,Amex,électronique,Web,4
+T000979,C5422,29/09/2025,22:07:17,,MAD,paiement en ligne,Casablanca,en ligne,MasterCard,voyage,Android,1
+T000394,C8421,06/08/2025,21:20:21,6341.21,MAD,paiement en ligne,Casablanca,carte,Amex,électronique,Web,8
+T000169,C8392,16/07/2025,09:09:31,5238.52,MAD,virement,Rabat,guichet,Visa,voyage,iOS,8
+T000742,C8673,07/09/2025,14:38:05,1917.84,EUR,paiement en ligne,Tanger,application mobile,Amex,électronique,ATM,5
+T000503,C3539,16/08/2025,20:53:37,5238.42,EUR,retrait,Fès,guichet,,santé,ATM,8
+T000359,C5752,02/08/2025,02:07:45,1360.56,MAD,paiement en ligne,Casablanca,guichet,Visa,mode,Android,6
+T000593,C5804,24/08/2025,01:52:56,1098.19,MAD,paiement en ligne,Marrakech,carte,Visa,mode,Web,1
+T000442,C9867,10/08/2025,22:27:50,1103.76,MAD,paiement en ligne,Fès,carte,Visa,mode,ATM,6
+T000415,C6387,08/08/2025,08:48:10,,USD,paiement en ligne,Fès,en ligne,Amex,voyage,iOS,9
+T000371,C2081,04/08/2025,12:20:22,9065.57,MAD,retrait,Fès,en ligne,Visa,voyage,iOS,3
+T000002,C1860,01/07/2025,09:09:18,7622.33,MAD,retrait,Tanger,application mobile,Visa,voyage,ATM,9
+T000649,C4374,29/08/2025,15:15:53,4689.78,MAD,paiement en ligne,Casablanca,application mobile,Visa,électronique,ATM,4
+T000134,C3693,13/07/2025,02:55:05,,MAD,paiement en ligne,Tanger,application mobile,MasterCard,électronique,Web,7
+T000060,C5297,06/07/2025,21:04:55,5214.37,MAD,virement,Rabat,carte,Visa,santé,iOS,7
+T000588,C8714,24/08/2025,01:40:47,240.33,EUR,paiement en ligne,Rabat,en ligne,Amex,électronique,iOS,7
+T000403,C3839,07/08/2025,00:54:49,721.65,EUR,retrait,Casablanca,application mobile,Amex,mode,Web,5
+T000107,C7910,10/07/2025,22:12:12,1998.54,EUR,paiement en ligne,Tanger,carte,MasterCard,santé,ATM,1
+T000136,C6450,13/07/2025,14:22:48,2783.3,USD,paiement en ligne,Marrakech,en ligne,Visa,électronique,Android,2
+T000724,C1638,05/09/2025,08:51:37,6612.13,MAD,paiement en ligne,Marrakech,en ligne,Visa,voyage,Web,6
+T000111,C6134,11/07/2025,16:28:52,5804.07,EUR,paiement en ligne,Marrakech,en ligne,Visa,alimentaire,Android,9
+T000141,C7776,13/07/2025,02:37:12,486.8,EUR,paiement en ligne,Fès,guichet,Amex,électronique,ATM,3
+T000083,C3027,08/07/2025,14:58:25,8478.26,MAD,paiement en ligne,Casablanca,carte,Cash,alimentaire,Web,3
+T000350,C8027,02/08/2025,18:44:10,9672.0,USD,paiement en ligne,Casablanca,en ligne,MasterCard,alimentaire,iOS,10
+T000167,C9164,16/07/2025,10:44:57,9439.83,EUR,virement,Rabat,guichet,Amex,alimentaire,Web,2
+T000585,C3779,23/08/2025,09:33:42,5173.59,MAD,paiement en ligne,Marrakech,guichet,Amex,alimentaire,Web,1
+T000587,C2581,23/08/2025,06:26:26,881.37,EUR,paiement en ligne,Casablanca,carte,Cash,santé,Android,8
+T000254,C9050,24/07/2025,15:03:05,8366.47,MAD,retrait,Fès,guichet,MasterCard,voyage,iOS,10
+T000578,C4775,23/08/2025,22:28:29,6954.8,MAD,retrait,Rabat,application mobile,Visa,santé,Web,7
+T000775,C2733,10/09/2025,08:03:58,4141.36,MAD,retrait,Casablanca,guichet,Cash,voyage,ATM,1
+T000202,C9680,19/07/2025,19:21:10,496.87,MAD,paiement en ligne,Rabat,guichet,MasterCard,alimentaire,iOS,1
+T000073,C7331,07/07/2025,05:33:11,224.65,MAD,virement,Marrakech,guichet,Amex,santé,iOS,7
+T000255,C4446,24/07/2025,21:25:02,3355.3,EUR,paiement en ligne,Marrakech,application mobile,Visa,alimentaire,ATM,8
+T000819,C2619,14/09/2025,16:23:20,9419.84,EUR,retrait,Tanger,guichet,MasterCard,alimentaire,ATM,8
+T000780,C4517,10/09/2025,16:47:29,5683.5,MAD,paiement en ligne,Rabat,application mobile,MasterCard,voyage,iOS,2
+T000256,C2045,24/07/2025,08:41:13,6951.5,MAD,paiement en ligne,Fès,en ligne,,santé,Web,7
+T000198,C9338,19/07/2025,12:40:38,2924.41,MAD,paiement en ligne,Rabat,guichet,Cash,électronique,Web,7
+T000064,C8869,06/07/2025,16:58:44,7740.57,MAD,virement,Rabat,carte,MasterCard,santé,iOS,1
+T000170,C7528,16/07/2025,10:52:29,9774.21,USD,retrait,Casablanca,application mobile,Amex,alimentaire,Android,7
+T000451,C6104,11/08/2025,13:35:32,4111.11,,retrait,Marrakech,en ligne,Visa,mode,Web,8
+T000850,C2065,17/09/2025,07:01:16,5948.76,EUR,virement,Fès,application mobile,MasterCard,alimentaire,Web,1
+T000519,C2324,17/08/2025,12:48:40,4453.33,MAD,retrait,Casablanca,en ligne,Amex,mode,ATM,4
+T000823,C3824,14/09/2025,18:10:12,6986.5,MAD,virement,Casablanca,guichet,MasterCard,santé,iOS,8
+T000595,C1009,24/08/2025,18:30:54,5216.28,EUR,retrait,Fès,application mobile,Amex,électronique,Web,1
+T000014,C3433,02/07/2025,13:42:15,4604.11,USD,paiement en ligne,Fès,en ligne,Amex,alimentaire,Web,6
+T000413,C3738,07/08/2025,20:17:02,4006.24,EUR,paiement en ligne,Tanger,en ligne,MasterCard,santé,ATM,6
+T000610,C5000,26/08/2025,01:29:17,1758.35,,retrait,Fès,guichet,MasterCard,électronique,iOS,7
+T000363,C9932,03/08/2025,15:01:05,2935.95,MAD,virement,Fès,en ligne,MasterCard,santé,iOS,5
+T000502,C1953,16/08/2025,22:01:26,7392.28,MAD,paiement en ligne,Tanger,carte,,voyage,iOS,6
+T000731,C5621,06/09/2025,15:20:27,3278.89,MAD,retrait,Rabat,application mobile,MasterCard,électronique,Web,10
+T000996,C6232,30/09/2025,16:57:22,1562.88,MAD,retrait,Casablanca,application mobile,Visa,santé,Web,4
+T000034,C2528,04/07/2025,16:13:08,3190.49,MAD,retrait,Marrakech,guichet,Visa,voyage,iOS,10
+T000042,C3612,04/07/2025,03:40:37,628.01,MAD,virement,Casablanca,application mobile,MasterCard,voyage,Web,5
+T000863,C2997,18/09/2025,11:14:40,2006.7,MAD,retrait,Casablanca,en ligne,Cash,santé,iOS,5
+T000214,C5061,20/07/2025,16:28:52,3617.86,MAD,paiement en ligne,Fès,application mobile,Cash,voyage,Web,10
+T000480,C5491,14/08/2025,03:44:11,8780.83,MAD,retrait,Marrakech,carte,Cash,électronique,iOS,1
+T000811,C4744,13/09/2025,16:12:37,8053.92,,paiement en ligne,,guichet,,voyage,iOS,5
+T000267,C8996,25/07/2025,08:58:02,50.12,USD,paiement en ligne,Casablanca,en ligne,Amex,santé,Android,7
+T000176,C5931,17/07/2025,16:40:16,6424.12,MAD,virement,,guichet,MasterCard,santé,ATM,7
+T000304,C8806,28/07/2025,19:27:56,472.1,MAD,virement,Rabat,en ligne,Visa,mode,iOS,8
+T000814,C7038,13/09/2025,00:25:38,580.81,EUR,paiement en ligne,Fès,guichet,Cash,électronique,Web,6
+T000517,C8494,17/08/2025,19:28:37,7069.34,EUR,virement,Casablanca,en ligne,Cash,santé,Web,3
+T000284,C1190,27/07/2025,03:47:29,3064.16,EUR,paiement en ligne,Fès,application mobile,Visa,électronique,Web,2
+T000897,C4756,21/09/2025,09:33:31,3296.23,MAD,retrait,Tanger,carte,Visa,électronique,iOS,2
+T000538,C1504,19/08/2025,19:14:18,1646.6,MAD,paiement en ligne,Tanger,carte,Amex,voyage,Web,7
+T000826,C8984,14/09/2025,11:07:07,1604.26,MAD,paiement en ligne,Marrakech,guichet,Cash,santé,Android,1
+T000835,C3560,15/09/2025,03:29:32,240.49,USD,retrait,Marrakech,application mobile,Cash,électronique,Android,7
+T000769,C3739,09/09/2025,05:52:35,7494.43,USD,paiement en ligne,Casablanca,en ligne,Amex,électronique,ATM,1
+T000213,C6534,20/07/2025,07:45:24,5662.54,EUR,retrait,Rabat,carte,Amex,voyage,ATM,6
+T000851,C3136,17/09/2025,08:11:34,3581.5,MAD,paiement en ligne,,en ligne,Amex,voyage,iOS,8
+T000028,C3734,03/07/2025,01:52:43,6794.24,,virement,Fès,en ligne,Cash,voyage,ATM,7
+T000388,C3744,05/08/2025,16:41:41,3357.94,EUR,retrait,Casablanca,carte,Amex,électronique,Android,3
+T000511,C2540,16/08/2025,16:34:48,8958.69,MAD,retrait,Fès,application mobile,Visa,électronique,Android,6
+T000917,C4876,23/09/2025,11:05:16,5827.96,MAD,virement,Fès,carte,MasterCard,mode,Web,3
+T000771,C2761,09/09/2025,08:32:55,8587.33,USD,virement,Rabat,guichet,Visa,alimentaire,Android,2
+T000244,C6699,23/07/2025,13:57:49,1902.05,MAD,virement,Fès,en ligne,MasterCard,santé,ATM,8
+T000740,C9172,07/09/2025,01:01:34,7791.35,MAD,retrait,Casablanca,application mobile,Visa,électronique,ATM,10
+T000596,C3871,24/08/2025,05:55:18,6097.14,MAD,paiement en ligne,Tanger,carte,Amex,santé,ATM,6
+T000606,C4925,25/08/2025,06:03:28,4318.0,MAD,paiement en ligne,Casablanca,en ligne,Cash,électronique,Android,4
+T000486,C2062,14/08/2025,04:18:33,2513.22,MAD,virement,Casablanca,en ligne,Amex,alimentaire,iOS,8
+T000598,C8409,24/08/2025,14:03:19,624.43,USD,paiement en ligne,Casablanca,guichet,Visa,électronique,ATM,5
+T000285,C1980,27/07/2025,22:41:43,,USD,virement,Casablanca,en ligne,Visa,électronique,ATM,2
+T000766,C7891,09/09/2025,13:08:58,994.43,MAD,virement,Tanger,carte,Visa,santé,Android,10
+T000180,C9958,17/07/2025,06:09:40,7727.69,MAD,virement,Casablanca,en ligne,Visa,voyage,iOS,8
+T000890,C7371,20/09/2025,12:58:46,1515.39,MAD,paiement en ligne,,carte,Amex,voyage,Web,8
+T000110,C1206,11/07/2025,13:51:28,7824.15,MAD,paiement en ligne,Marrakech,en ligne,Amex,santé,Android,1
+T000906,C1814,22/09/2025,17:39:21,8099.79,MAD,retrait,Tanger,en ligne,Visa,voyage,iOS,7
+T000767,C7738,09/09/2025,22:56:18,9988.98,MAD,virement,Casablanca,carte,Amex,voyage,Android,8
+T000994,C7645,30/09/2025,16:05:47,6291.92,MAD,paiement en ligne,Marrakech,en ligne,MasterCard,mode,ATM,4
+T000955,C9609,26/09/2025,07:02:13,,MAD,paiement en ligne,Fès,application mobile,MasterCard,alimentaire,iOS,1
+T000334,C1574,31/07/2025,07:46:39,4987.77,MAD,paiement en ligne,Tanger,carte,Visa,alimentaire,Web,8
+T000902,C1793,21/09/2025,18:00:27,3585.43,EUR,virement,Tanger,application mobile,Cash,mode,ATM,1
+T000784,C2063,11/09/2025,19:36:02,193.1,MAD,paiement en ligne,Fès,carte,Visa,mode,Android,8
+T000402,C5611,06/08/2025,18:35:09,9804.67,EUR,virement,Tanger,en ligne,Cash,mode,ATM,6
+T000684,C2906,01/09/2025,20:19:25,7739.46,MAD,retrait,Casablanca,carte,Visa,électronique,iOS,3
+T000886,C5612,20/09/2025,04:57:36,4717.62,MAD,retrait,Casablanca,en ligne,Amex,voyage,ATM,8
+T000357,C1635,02/08/2025,16:34:43,5549.44,,paiement en ligne,Fès,guichet,MasterCard,alimentaire,iOS,2
